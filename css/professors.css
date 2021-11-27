@@ -1,0 +1,49 @@
+.skilled-pro{
+  padding-bottom: 20px;
+}
+.profesor-para{
+  color: #fff;
+}
+.professors-sec{
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-color: #262626;
+}
+.swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+  background-color: #fff;
+}
+.swiper-slide .Box {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+.swiper-slide .Box img{
+  width: 100%;
+  height: 300px;
+}
+.swiper-slide .detail{
+  box-sizing: border-box;
+  font-size: 20px;
+  padding: 20px;
+}
+.swiper-slide .detail h3{
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  text-align: center;
+  line-height: 20px;
+  font-family: SR;
+}
+.swiper-slide .detail h3 span{
+  font-size: 16px;
+  color: #EB1D50;
+}

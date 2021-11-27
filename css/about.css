@@ -1,0 +1,226 @@
+/* ABOUT PAGE START */
+
+.about-bgimg-sec{
+  background-image: url('../images/about/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 200px 0px;
+}
+.about-img-para{
+  font-family: SB;
+  font-size: 40px;
+  color: #EB1D50;
+}
+.about-us-sec{
+  background-color: #F3F3F3;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.aboutUs-heading{
+  font-size: 37px;
+  font-family: SB;
+  color: #EB1D50;
+  margin-bottom: 0px;
+}
+.aboutUs-para{
+  font-size: 20px;
+  font-family: SR;
+}
+.aboutUs-welcome{
+  font-family: SR;
+  font-size: 30px;
+}
+.about-sub-para{
+  font-size: 18px;
+  font-family: SR;
+}
+.about-second-row{
+  margin-top: 50px;
+}
+.about-bult{
+  color: #EB1D50;
+}
+.bult-text{
+  color: #000;
+}
+.aboutUs-img{
+  padding-top: 40px;
+}
+.about-images-row{
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.about-images-col1{
+  background-image: url('../images/about/ab1.jpg');
+}
+.about-images-col:hover .pen-icon{
+  background-color: #EB1D50;
+  transition: background-color 1s ease 0s;
+}
+.about-images-col2{
+  background-image: url('../images/about/ab2.jpg');
+}
+.about-images-col3{
+  background-image: url('../images/about/ab3.jpg');
+}
+.about-images-col{
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.pen-icon{
+  color: #fff;
+  font-size: 40px;
+  border: 3px solid #fff;
+  padding: 30px;
+  border-radius: 4px;
+}
+.pen-text{
+  color: #fff;
+  font-family: SB;
+  font-size: 25px;
+  margin-bottom: 0px;
+  padding-top: 15px;
+}
+.pen-sub-para{
+  color: #fff;
+  font-family: SR;
+}
+.our-ser-sec{
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-color: #222222;
+}
+.high-pro{
+  color: #fff;
+  padding-top: 30px;
+}
+.ser-std-img{
+  padding-top: 30px;
+}
+.our-ser-heading{
+  padding-bottom: 50px;
+}
+.ser-paras{
+  margin-bottom: 30px;
+}
+.btn-staff{
+  margin-bottom: 30px;
+}
+.ser-readmore-btn{
+  font-family: GI;
+}
+.ser-readmore-btn:hover{
+  background-color: #EB1D50;
+  border: 1px solid #EB1D50;
+}
+.learning-sec{
+  background-image: url('../images/about/learn.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.learnig-white-div{
+  background-color: #fff;
+  padding: 60px 20px;
+  margin: 60px 0px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 15px 5px rgba(0, 0, 0, 0.5);
+}
+.learn-sec-para1{
+  color: #EB1D50;
+  font-family: SB;
+  font-size: 22px;
+}
+.learn-sec-para2{
+  font-family: SB;
+  font-size: 25px;
+}
+.learn-sec-para3{
+  font-family: SR;
+  font-size: 18px;
+  color: #8D9999;
+}
+.learnig-white-div:hover{
+  background-color: transparent;
+  color: #fff;
+}
+.learnig-white-div:hover .learn-sec-para3{
+  color: #fff;
+}
+.learnig-white-div:hover .learn-sec-para1{
+  color: #fff;
+}
+.scoler-row{
+  padding-top: 30px;
+}
+.scoler-cap-icon{
+  color: #EB1D50;
+  font-size: 45px;
+  margin-bottom: 15px;
+}
+.future-sec{
+  background-color: #F3F3F3;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.future-divs{
+  background-color: #2e2e2e;
+  margin-top: 30px;
+  height: 382px;
+  margin-bottom: 15px;
+  border-radius: 30px;
+}
+.future-divs:hover .future-icons{
+  background-color: #EB1D50;
+  color: #fff;
+  transition: background-color 1.5s ease 0s;
+}
+.future-div-headings{
+  font-size: 20px;
+  padding: 20px 15px;
+}
+.future-sub-para{
+  font-family: SR;
+  color: #fff;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 60px;
+}
+.future-icons{
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  background: #fff;
+  font-size: 32px;
+  color: #EB1D50;
+  padding-top: 30px;
+  margin-top: 60px;
+}
+.popup-heading{
+  text-align: center;
+  font-family: SB;
+  font-size: 37px;
+  width: 100%;
+  color: #EB1D50;
+}
+.popup-para{
+  font-family: SR;
+  padding-top: 15px;
+}
+.popup-btn-div{
+  justify-content: center;
+}
+.popup-btn{
+  font-family: GI;
+  width: 100px;
+}
+.popup-btn:hover{
+  background-color: #EB1D50;
+  border: 1px solid #EB1D50;
+}

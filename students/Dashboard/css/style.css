@@ -1,0 +1,235 @@
+@font-face {
+  font-family: welcometext;
+  src: url(font/gomarice_usuazi_hosomozi.ttf);
+}
+
+@font-face {
+  font-family: goldenage;
+  src:url(font/Golden_Age_Regular.ttf);
+}
+
+@font-face{
+  font-family: motion_pictures;
+  src:url(font/my_black_color.ttf);
+}
+
+
+a[class="header_text"]{
+
+  text-decoration: none;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.my_profile_pic{
+  border-radius: 50%;
+   height: 40px; 
+   width:40px; 
+   margin-top:-6px; 
+   margin-right:8px; 
+   cursor:hand;
+}
+
+#dp_form_holder{
+  position: absolute;
+  margin-top: -2000px; 
+ /*margin-left: -500px;   Uncomment if you want to see the file upload input form items*/
+}
+
+body{
+  overflow: hidden;
+  background-color: #17c4e2;
+
+}
+
+#img-logo{
+  padding-top: 15px;
+  float: left;
+  margin-left:0;
+}
+
+#header-btn{
+	padding: 15px 0 0 10px;
+	float:left;
+}
+
+input[id="btn-hide-text"]{
+	width:30px;
+	font-weight:bold;
+}
+
+.navimg {
+    float: left;
+    margin-top: -6px;
+    margin-right: 10px;
+}
+
+.main-header {
+    width: 100%;
+    background-color: rgba(69, 162, 255, 0.93);
+    margin: 0 auto;
+    height: 50px;
+    padding-bottom: 20px;
+    box-shadow: 5px 2px 10px rgb(21, 197, 228);
+}
+
+#header-text {
+
+    font-size: 1.6em;
+    color: white;
+    padding: 10px 0 0 10px;
+}
+
+.navigations {
+
+    margin-top: 1px;
+    border-right-width: 4px;
+    border-right-style: solid;
+    border-color: white;
+    width: 170px;
+    background-color: white;
+    height: 100%;
+    float: left;
+    box-shadow: 1px 2px 3px;
+    margin-right: 10px;
+}
+
+.content {
+    width: auto;
+    height: 90vh;
+    background-color: #f1f4f7;
+    overflow: auto;
+}
+
+.lists a {
+    text-decoration: none;
+    display: block;
+    padding: 14px;
+    font-size: 0.9em;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+    color: rgb(122, 120, 120);
+    border-bottom: 0.1000px solid rgba(232, 230, 230, 0.61);
+}
+
+ul{
+  list-style: none;
+}
+
+.lists a:hover {
+  border-left: 4px solid rgba(69, 162, 255, 0.93);
+  transition: none;
+  border-radius: 10px;
+}
+
+/*.lists li a:focus{
+
+    background-color: rgb(49, 14, 143);
+    color: white;
+    padding-left: 30px;
+}*/
+
+#top-navigation{
+	padding-left:40px;
+	overflow:hidden;
+}
+
+#top-navigation-logo{
+  float: left;
+}
+
+#top-navigation-username{
+  float: right;
+  background-color: rgba(69, 162, 255, 0.93);
+  margin-right: 0;
+  padding: 10px 20px 0 25px;
+  height: 50px;
+}
+
+#top-navigation-username span{
+  color: white;
+  float: left;
+  font-size: 1.2em;
+  color: rgb(122, 120, 120);
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#welcome-header-text{
+  padding : 6% 0 0 5%;
+  font-family: headertext;
+  font-size: 60px;
+
+}
+
+#welcome-text{
+      padding : 1% 0 0 6%;
+      font-family: headertext;
+      font-size:1.3em;
+      color: gray;
+}
+
+#welcome-body{
+  background-color: gray;
+  height: 300px;
+}
+
+#down-items{
+
+  margin-top: 20px;
+
+}
+
+.panel-box{
+  height: 180px;
+  padding-top: 70px;
+  text-align: center;
+  border : 5px solid red;
+    background-color: pink;
+
+}
+
+.public-box-1{
+
+  background-color: blue;
+
+}
+
+.public-box-2{
+
+  background-color: pink;
+
+}
+
+.public-box-3{
+
+  background-color: pink;
+
+}
+
+.public-box-4{
+
+  background-color : pink;
+
+}
+
+.first-panel-text{
+
+  font-family: goldenage;
+  font-size: 2.4em;
+}
+
+.second-panel-text{
+
+  font-family: goldenage;
+  font-size: 1.4em;
+
+}

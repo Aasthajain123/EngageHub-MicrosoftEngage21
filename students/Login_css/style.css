@@ -1,0 +1,135 @@
+* {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  
+  html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    position: relative;
+    background: -webkit-linear-gradient(315deg,#41afe2,#41afe2);
+    background: linear-gradient(135deg,#41afe2, #41afe2);
+    font-family: 'Roboto', helvetica, arial, sans-serif;
+    font-size: 1.5em;
+    overflow:hidden;
+  }
+  body:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url(new.jpg) ;
+    opacity: 3;
+  
+  
+  }
+  
+  .login-form {
+    width: 100%;
+    padding: 2em;
+    position: relative;
+    background: rgba(0, 0, 0, 0.15);
+  }
+  .login-form:before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: 0;
+    height: 2px;
+    width: 100%;
+    background: -webkit-linear-gradient(left, #41afe2, #41afe2);
+    background: linear-gradient(to right, #41afe2,#41afe2);
+  }
+  @media screen and (min-width: 600px) {
+    .login-form {
+      width: 50vw;
+      max-width: 15em;
+    }
+  }
+  
+  .flex-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 1em;
+  }
+  
+  .lf--input {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    padding: 1em;
+    border: 0;
+    color: #8f8f8f;
+    font-size: 1rem;
+  }
+  
+  .lf--submit {
+    display: block;
+    padding: 1em;
+    width: 100%;
+    background: -webkit-linear-gradient(left, #41afe2, #41afe2);
+    background: linear-gradient(to right, #41afe2, #41afe2);
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: .75em;
+    font-weight: 600;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+  }
+  .lf--submit:focus {
+    outline: none;
+    -webkit-transition: -webkit-transform .15s ease;
+    transition: -webkit-transform .15s ease;
+    transition: transform .15s ease;
+    transition: transform .15s ease, -webkit-transform .15s ease;
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+  
+  #lf--errormsg {
+    margin-top: 1em;
+    color: #1ea8df;
+    font-size: .65em;
+    text-align: center;
+  }
+  
+  
+  ::-webkit-input-placeholder {
+    color: #8f8f8f;
+  }
+  
+  ::-moz-placeholder {
+    color: #8f8f8f;
+  }
+  
+  :-ms-input-placeholder {
+    color: #8f8f8f;
+  }
+  
+  ::placeholder {
+    color: #8f8f8f;
+  }
+  
+
+
+
+
+

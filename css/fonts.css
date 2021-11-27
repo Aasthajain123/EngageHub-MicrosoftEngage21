@@ -1,0 +1,12 @@
+@font-face {
+  src: url('../fonts/OpenSans-Bold.ttf');
+  font-family: SB;
+}
+@font-face {
+  src: url('../fonts/OpenSans-Regular.ttf');
+  font-family: SR;
+}
+@font-face {
+  src: url('../fonts/georgia italic.ttf');
+  font-family: GI;
+}

@@ -1,0 +1,165 @@
+#main_content{
+  overflow: hidden;
+}
+
+.calendar{
+
+  margin-left: 15px;
+  margin-top:-8px;
+}
+
+#Get_Online_Users{
+background-color : white;
+overflow : auto;
+min-width: 200px;
+border-radius: 1%;
+height: 85%;
+margin-top: 20px;
+padding-left: 2px;
+}
+
+
+#Main_Chat_Box{
+background-color : #d8d4d4;
+border-radius: 1%;
+height: 75%;
+margin-top: 20px;
+max-width: 650px;
+min-width: 400px;
+}
+
+.uploads_style{
+
+  padding: 5px;
+  margin-top: 5px;
+  font-style: italic;
+  font-weight: bold;
+  color: #6495ED;
+    }
+
+
+#get_uploads{
+
+  background-color: white;
+  max-height: 150px;
+  overflow-x:hidden;
+  overflow-y:scroll;
+  margin-top: -8px;
+}
+
+div[id="get_uploads"]::-webkit-scrollbar{
+    width: 10px;
+}
+ 
+div[id="get_uploads"]::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background : rgba(0,0,0,.1); 
+}
+
+
+
+#get_chat_logs{
+  height: 83%;
+  overflow-x: hidden;
+  overflow-y: scroll; 
+}
+
+#send_button,#send_button2{
+
+  margin-left: 562px;
+  margin-top: -38px;
+  background-color: white;
+  position: fixed;
+  height: 36px;
+  cursor: pointer;
+
+}
+
+div[id="get_chat_logs"]::-webkit-scrollbar{
+    width: 10px;
+}
+ 
+div[id="get_chat_logs"]::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background : rgba(0,0,0,.1); 
+}
+
+
+div[id="Get_Online_Users"]::-webkit-scrollbar{
+    width: 10px;
+}
+ 
+div[id="Get_Online_Users"]::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background : rgba(0,0,0,.1); 
+}
+
+
+#Right_side_bar{
+background-color : white;
+border-radius: 1%;
+height: 85%;
+margin-top: 20px;
+min-width: 200px;
+max-width: 300px;
+overflow : auto;
+}
+
+.right_side_logo{
+
+  font-weight: bold;
+  color:rgba(69, 162, 255, 0.93);
+
+}
+
+#chat-logo{
+    color: rgba(69, 162, 255, 0.93);
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+#form_send_message{
+float: left;
+margin-left: 212px;
+}
+
+#text_area{
+  width: 600px;
+  margin-top: -40px;
+  position: absolute;
+  border-radius: 3px;
+  resize : none;
+  font-size: 15px;
+  padding: 10px 40px 10px 10px;
+  height: 40px;
+}
+
+textarea[id="text_area"]:focus{
+  background : fff;
+}
+
+#btn_Send{
+
+  position: absolute;
+  margin-top: -2000px;
+  margin-left: 550px;
+  height: 0px;
+  width: 0px;
+}
+
+li[class="users"]{
+
+   padding-left: 10px;
+   padding-bottom: 2px;
+   padding-top: 2px;
+
+ }
+
+ li[class="users"]:hover{
+
+    background-color: #d8d4d4;
+    cursor: hand;
+    margin-right: -15px;
+
+ }
+

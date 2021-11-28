@@ -35,6 +35,12 @@
   - Able to Update/Manage Notice Board, Result and Helping Material.
   - Add Quiz, Manage Quiz and Manage Quiz Results.
   ## 🚩 Admin :
+  - Can see the profile and Update the Profile.
+  -
+  -
+  -
+  -
+  
   ## 🚩 Admin :
   
 

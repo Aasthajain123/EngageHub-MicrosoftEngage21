@@ -9,7 +9,7 @@ This software has following features:
 
 | Feature | Description |
 |---------|-------------|
-| Roles  | Master, Admin, Teacher, Student, Librarian, Accountant.|
+| Roles  | Admin, Teacher, Student |
 | Certificate | Now you can upload certificate to a student using student code. |
 | Payment |**[Stripe](http://stripe.com/)** is used. See configuration below.|
 ||Students can pay from their accounts.|

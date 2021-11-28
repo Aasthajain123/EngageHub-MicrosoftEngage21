@@ -31,11 +31,11 @@
   - Admin can update his Profile.
   - Check profiles of teachers and students, Approve Pending requests for teachers for signing up.
   - Can Add/Manage Department, Session, Semester and Subjects.
-  - Can see the subscribers of the Newsletter
-  -
-  -
-  -
-  -
+  - Can see the subscribers of the Newsletter.
+  - Able to Update/Manage Notice Board, Result and Helping Material.
+  - Add Quiz, Manage Quiz and Manage Quiz Results.
+  ## 🚩 Admin :
+  ## 🚩 Admin :
   
 
 

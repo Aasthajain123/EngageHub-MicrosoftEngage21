@@ -51,8 +51,8 @@ This software has following features:
 
 # Run Hosted Website
   - Link : http://engagehub.southeastasia.cloudapp.azure.com/students.php
-  -- Admin Username : Aastha Jain
-  -- Admin Password : 1
+  - Admin Username : Aastha Jain
+  - Admin Password : 1
   
 
 

@@ -25,6 +25,19 @@
   - Admin Password : 1
   
 
+# Features of this Website :
+
+  ## 🚩 Admin :
+  - Admin can update his Profile.
+  - Check profiles of teachers and students, Approve Pending requests for teachers for signing up.
+  - Can Add/Manage Department, Session, Semester and Subjects.
+  - Can see the subscribers of the Newsletter
+  -
+  -
+  -
+  -
+  
+
 
 # 🚩 Run on your local machine:
 

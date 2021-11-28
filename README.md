@@ -50,7 +50,8 @@
   
 
 
-  
+  ![28 11 2021_21 47 32_REC](https://user-images.githubusercontent.com/50754325/143778794-4041cb51-baea-438b-9147-0767e41a748b.png)
+
   
   
 # Major Learnings:

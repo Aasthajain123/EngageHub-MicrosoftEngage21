@@ -35,13 +35,20 @@
   - Able to Update/Manage Notice Board, Result and Helping Material.
   - Add Quiz, Manage Quiz and Manage Quiz Results.
   ## 🚩 Teacher :
-  - Teacher see the profile and Update the Profile.
+  - Teacher can see the profile and Update the Profile.
   - Able to Change Password.
   - Add Quiz, Manage Quiz and Manage Quiz Results.
   - Able to Update/Manage Notice Board, Result and Helping Material.
   
   
-  ## 🚩 Admin :
+  ## 🚩 Student :
+  - Student can see the profile and Update the Profile.
+  - Able to Change Password.
+  - Able to see Notice Board, Result and Helping Material.
+  - Student can give the quiz and check quiz results as well.
+  - Student Forum : 
+  -
+  
   
 
 

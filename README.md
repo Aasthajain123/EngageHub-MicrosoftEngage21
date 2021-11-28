@@ -50,9 +50,10 @@
   
 
 
-  ![28 11 2021_21 47 32_REC](https://user-images.githubusercontent.com/50754325/143778794-4041cb51-baea-438b-9147-0767e41a748b.png)
 
-  
+  ![28 11 2021_21 47 32_REC](https://user-images.githubusercontent.com/50754325/143778814-a6a4ee39-4796-4c38-91b5-2a078b09291e.png)
+ ![28 11 2021_21 47 53_REC](https![28 11 2021_21 48 57_REC](https://user-images.githubusercontent.com/50754325/143778827-ccfe4675-7854-4066-9220-f4509da38b39.png)
+://user-images.githubusercontent.com/50754325/143778817-96497d39-90a8-498c-bad5-a63f2388b4ac.png)
   
 # Major Learnings:
   

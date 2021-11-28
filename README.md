@@ -49,7 +49,11 @@ This software has following features:
     'timezone' => 'Asia/Dhaka',//'UTC',
     'locale' => 'en',//'es-MX' for Spanish
 
-
+# Run Hosted Website
+  Link : http://engagehub.southeastasia.cloudapp.azure.com/students.php
+  Admin Username : Aastha Jain
+  Admin Password : 1
+  
 
 
 # Run on your local machine:

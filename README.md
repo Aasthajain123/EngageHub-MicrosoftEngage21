@@ -50,14 +50,14 @@ This software has following features:
 
 2. Next set up phpmyadmin , check whether phpMyAdmin is connected or not, by going to "https://localhost/phpmyadmin" , A Webpage should open for your localhost, if it show some error, connect it properly. (Note : If error does not go , You can also try stopping "MySQL Database" and "APACHE Web Server" from XAMPP control panel of your System{in "Manage Servers" option} and start them again.)
 
-3. Go To “localhost/phpmyadmin” in any browser and create Database with name "engagehub". In that Database, Next go to import and import the file name "engagehub.sql".
+3. Go To “localhost/phpmyadmin” in any browser and create Database with name "engagehub". In that Database, Next go to import and import the file name "engagehub.sql" from database folder.
 
 4. Now paste you project folder from github in xampp directory inside like “c:\xampp\htdocs\” named as engagehub.
 
 
 5. Then go to your browser and type in URL like http://localhost/(Your_ProjectName) like "“http://localhost/engagehub”".
 
-6. Next create student and teachers profiles to go to there dashboards.
+6. Next create student and teachers profiles to go to there dashboards and run all functionalities and features.
 
 7. For Admin panel
 

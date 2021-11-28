@@ -12,14 +12,14 @@
 #### Version Control : <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  
 #### Hosting : <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/> 
 
-# Run Hosted Website
+# 🚩 Run Hosted Website
   - Link : http://engagehub.southeastasia.cloudapp.azure.com/students.php
   - Admin Username : Aastha Jain
   - Admin Password : 1
   
 
 
-# Run on your local machine:
+# 🚩 Run on your local machine:
 
 1. First of all run your xampp server from "https://xampp.site" and set it up.
 
@@ -46,7 +46,7 @@
 
 
 
-# Here are some screenshots:
+# 🚩 Here are some screenshots:
   
 ![28 11 2021_21 47 32_REC](https://user-images.githubusercontent.com/50754325/143778854-3d4d09e4-4d50-48de-a7ba-1b730248d8b5.png)
 
@@ -140,7 +140,7 @@
   
   
   
-# Major Learnings:
+# 🚩 Major Learnings:
   
 1. **Agile Methodology**: Through the 3 week span of the project, I undertook weekly sprints and made sure that small features get implemented in an efficient and time bound manner. Having a usable version of the product from the very beginning and seeing it evolve through the days and weeks was a joyful experience.
 2. **Perseverance and debugging skills**: Having faced numerous bugs that seemed *impossible* to solve at first to actually overcoming them felt like victory. It improved my problem solving skills and faith in hardwork.

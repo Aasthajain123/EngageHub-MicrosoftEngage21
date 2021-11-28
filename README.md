@@ -27,21 +27,21 @@
 
 # Features of this Website :
 
-  ### 🚩 Admin :
+  #### 🚩 Admin :
   - Admin can update his Profile.
   - Check profiles of teachers and students, Approve Pending requests for teachers for signing up.
   - Can Add/Manage Department, Session, Semester and Subjects.
   - Can see the subscribers of the Newsletter.
   - Able to Update/Manage Notice Board, Result and Helping Material.
   - Add Quiz, Manage Quiz and Manage Quiz Results.
-  ### 🚩 Teacher :
+  #### 🚩 Teacher :
   - Teacher can see the profile and Update the Profile.
   - Able to Change Password.
   - Add Quiz, Manage Quiz and Manage Quiz Results.
   - Able to Update/Manage Notice Board, Result and Helping Material.
   
   
-  ### 🚩 Student :
+  #### 🚩 Student :
   - Student can see the profile and Update the Profile.
   - Able to Change Password.
   - Able to see Notice Board, Result and Helping Material.

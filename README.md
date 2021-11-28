@@ -48,7 +48,7 @@
 
 # Here are some screenshots:
   
-![Uploading 28.11.2021_21.47.32_REC.png…]()
+
 
   
   

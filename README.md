@@ -1,5 +1,7 @@
 #                Microsoft Engage Mentorship program'21 project   
 
+This a functional prototype of a platform that gives students an array of digital academic and social tools to stay engaged with their studies, peers and broader university community during pandemic.
+
 <h1 align="center"><img src="https://user-images.githubusercontent.com/50754325/143672348-3f4c1a57-30df-4473-9222-4d37e48b002a.png" width="500"></h1>
 <p align="center">
   

@@ -72,7 +72,7 @@ This software has following features:
 -  Go to browser URL and type localhost/engagehub/admin
 
    - Username : 'Aastha Jain'
-   - Password : 'MicrosoftEngage'
+   - Password : '1'
 
 
 

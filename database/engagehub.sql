@@ -41,7 +41,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `img`) VALUES
-(1, 'Aastha Jain', 'MicrosoftEngage', 'profile_picture/61a299ba5ede9HeadLogo.png');
+(1, 'Aastha Jain', '1', 'profile_picture/61a299ba5ede9HeadLogo.png');
 
 -- --------------------------------------------------------
 

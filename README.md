@@ -47,7 +47,12 @@
 
 
 # Here are some screenshots:
+  
+![Uploading 28.11.2021_21.47.32_REC.png…]()
 
+  
+  
+  
 # Major Learnings:
   
 1. **Agile Methodology**: Through the 3 week span of the project, I undertook weekly sprints and made sure that small features get implemented in an efficient and time bound manner. Having a usable version of the product from the very beginning and seeing it evolve through the days and weeks was a joyful experience.
